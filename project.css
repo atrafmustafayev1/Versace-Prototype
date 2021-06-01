@@ -1,0 +1,268 @@
+body{
+    background-color: white;
+    /* text-align: left; */
+
+}
+ /* Navigation BAR */
+
+#mainNavbar{
+    margin-top:15px;
+ margin-left: 55px; 
+}
+
+
+#mainNavbar .nav-link{
+    color: black;
+    margin: 0 20px;
+    font-size: 115%;
+}
+#mainNavbar .navbar-brand{
+    color:black;
+    font-size: 155%;
+}
+
+#mainNavbar .nav-link:hover{
+    color: 	#D4AF37;
+}
+#mainNavbar .navbar-brand:hover{
+    color: 	#D4AF37;
+}
+
+#mainNavbar #last-link{
+     margin-right:41px; 
+}
+
+
+
+                                                 /* BODY 1 */
+
+.image1{
+    height:550px;
+    max-width:700px;
+
+}
+.styling{
+     margin-left: 68px; 
+    margin-top: 150px;
+}
+
+.logo{
+    height:37px;
+    max-width:37px;  
+}
+.heading1{
+    font-family: 'Roboto', sans-serif;
+    font-size:550%;
+    text-align: left;
+    color: 	#D4AF37;
+    text-shadow: 0 0 0.02em #D4AF37;
+    /* margin-left:50px; */
+   
+}
+.heading1-out{
+    font-family: 'Montserrat', sans-serif;
+    text-align:left;
+    color: 	#D4AF37;
+    /* margin-left:50px; */
+}
+
+.new-collection{
+   text-align:left;
+   margin-top:90px;
+   margin-bottom: 90px;
+   /* margin-left:50px; */
+}
+
+                                                /* April Collection */
+
+.april-collection {
+    margin-top: 90px;
+
+}
+.april-text{
+    text-align: right;
+    color: #f9d56e;
+    
+}
+.april-head{
+    margin-top: 200px;
+    margin-bottom: 15px;
+}
+.april-body-text{
+    line-height:1.5;
+
+}
+.april-button{
+    margin-top: 20px;
+    margin-bottom: 40px;
+
+}
+.april-button:hover{
+    background-color: #f9d56e;
+    border-color:#f9d56e;
+}
+.april-image{
+    max-width:100%;
+    height: 600px;
+}
+
+
+                                 /* Winter Collection */
+ .winter-text{
+     text-align: left;
+     color: #6f4a8e;
+ }   
+ 
+ .winter-collection {
+    margin-top: 90px;
+ }
+
+ .winter-image{
+     max-width: 100%;
+     height:600px;
+ }
+
+ .winter-button{
+    margin-top: 20px;
+    margin-bottom: 40px;
+
+}
+.winter-button:hover{
+    background-color: #6f4a8e;
+    border-color: #6f4a8e;
+}
+
+                            /* Summer Collection */
+
+
+ .summer-image{
+     max-width:100%;
+     height: 600px;
+ }
+
+ .summer-text{
+    text-align: right;
+    color: #1b262c;
+
+ }
+ .summer-button{
+    margin-top: 20px;
+    margin-bottom: 40px;
+
+}
+.summer-button:hover{
+    background-color: #1b262c;
+    border-color: #1b262c;
+}
+
+              /* Quote */
+
+.quote{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size:150%;
+    color: 	#D4AF37;
+}
+
+hr{
+    height:1px;
+    border-width:0;
+    color:gray;
+    background-color:gray;
+}
+
+.up-rule{
+    margin-top: 100px;
+}
+.down-rule{
+    margin-bottom: 100px;
+}
+
+                          /* Sections */
+.section-names{
+    text-align:center;
+    margin-top: 70px;
+    margin-bottom: 40px;
+}
+
+.bags{
+   
+  max-width:100%;
+  height:300px;
+}
+
+.bags-button{
+    margin-top: 140px;
+    margin-left: 70px;
+   
+}
+.new-year{
+    margin-bottom: 100px;
+}
+
+
+
+                                /* Footer */
+ .footer-head h4{
+     font-size: 80%;
+     margin-top:10px;
+ }
+ .footer-head p{
+     font-size: 60%;
+ }   
+ .atraf{
+     text-align:center;
+     font-size:80%;
+     color: #D4AF37;
+ }
+ span{
+     margin-left: 8px;
+     margin-right: 8px;
+ }
+  .rule2{
+      margin-top:10px;
+      margin-bottom:10px;
+      height:0.3px;
+  }  
+
+
+                           /* Women */
+ .women_image{
+     max-width:800%;
+     height:400px;
+ }                          
+.women_image2{
+    max-width:800%;
+     height:400px;
+     padding-left:137px;
+
+}
+.women_image3{
+    max-width:800%;
+     height:400px;
+     padding-right:137px;
+}
+
+#drop_menu_id .drop_menu_color{
+    background-color:white;
+    align-items: right;
+}
+
+#drop_menu_id #navbarDropdown{
+    color: black;
+}
+
+#drop_menu_id #navbarDropdown:hover{
+    color: #D4AF37;
+}
+
+#drop_menu_id .dropdown-item:hover{
+    color: #D4AF37; 
+}
+ .drop-hr{
+    margin-top:5px;
+    margin-bottom:15px;
+    height:0.3px;
+
+} 
+
